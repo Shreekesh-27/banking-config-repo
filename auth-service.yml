@@ -5,4 +5,4 @@ server:
   port: 8082
 
 custom:
-  message: "Hello from Auth Service config! v1234"
+  message: "Hello from Auth Service config!"
