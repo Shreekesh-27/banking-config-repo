@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: banking-platform
+server:
+  port: 0   # Each service picks its own port unless overridden
